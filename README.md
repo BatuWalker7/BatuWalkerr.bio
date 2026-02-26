@@ -7,6 +7,7 @@
 <title>BatuWalker Bio</title>
 
 <style>
+![walker](https://github.com/user-attachments/assets/518f8023-a9bb-4384-90d6-7d215274df15)
 
 /* ===== GENEL ===== */
 *{
